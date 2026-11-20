@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">郭翔宇2024110511</string>
+    <string name="label_music_list">本地音乐列表（ContentResolver 扫描）</string>
+    <string name="empty_music_list">未扫描到本地音频文件，请先授权或向设备 Music 目录放入音频</string>
+    <string name="no_song_playing">当前未播放歌曲</string>
+    <string name="track_count_format">曲目：%1$d / %2$d</string>
+    <string name="track_empty_count">曲目：0 / 0</string>
+    <string name="time_progress_format">%1$s / %2$s</string>
+    <string name="time_mmss_format">%1$02d:%2$02d</string>
+
+    <string name="btn_play">播放</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_resume">继续</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_prev">上一首</string>
+    <string name="btn_next">下一首</string>
+
+    <string name="notify_channel_name">音乐播放通知</string>
+    <string name="notify_title">正在播放</string>
+</resources>
